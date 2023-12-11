@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 191492db6e452eb468b95433ec162164, type: 3}
+  m_Name: InteractionLayerSettings
+  m_EditorClassIdentifier: 
+  m_LayerNames:
+  - Default
+  - 1st Door Key
+  - 2nd Door Key
+  - 3rd Door Key
+  - 4th Door Key
+  - 5th Door Key
+  - 6th Door Key
+  - 7th Door Key
+  - Final Door 1
+  - Final Door 2
+  - Final Door 3
+  - Final Door 4
+  - Final Door 5
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Teleport
